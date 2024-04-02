@@ -1,0 +1,15 @@
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\bin\Debug\net8.0\AC1.exe
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\bin\Debug\net8.0\AC1.deps.json
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\bin\Debug\net8.0\AC1.runtimeconfig.json
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\bin\Debug\net8.0\AC1.dll
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\bin\Debug\net8.0\AC1.pdb
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\obj\Debug\net8.0\AC1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\obj\Debug\net8.0\AC1.AssemblyInfoInputs.cache
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\obj\Debug\net8.0\AC1.AssemblyInfo.cs
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\obj\Debug\net8.0\AC1.csproj.CoreCompileInputs.cache
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\obj\Debug\net8.0\AC1.sourcelink.json
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\obj\Debug\net8.0\AC1.dll
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\obj\Debug\net8.0\refint\AC1.dll
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\obj\Debug\net8.0\AC1.pdb
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\obj\Debug\net8.0\AC1.genruntimeconfig.cache
+E:\DAMv1\AC1-Intergalactic\AC1\AC1\obj\Debug\net8.0\ref\AC1.dll

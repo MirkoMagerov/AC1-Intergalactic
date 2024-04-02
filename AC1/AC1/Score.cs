@@ -6,9 +6,9 @@ namespace AC1
     {
         private string _player;
         private string _mission;
-        private string _scoring;
+        private int _scoring;
 
-        public Score(string player, string mission, string scoring)
+        public Score(string player, string mission, int scoring)
         {
             Player = player;
             Mission = mission;
@@ -39,6 +39,7 @@ namespace AC1
             {
                 string[] consonantesGriegas = [ "Beta", "Gamma", "Delta", "Zeta", "Theta", "Kappa", "Lambda", "Mu", "Nu", "Xi", "Pi", "Rho", "Sigma", "Tau", "Phi", "Chi", "Psi" ];
                 bool contieneConsonanteGriega = consonantesGriegas.Any(c => value.Contains(c));
+
                 if (contieneConsonanteGriega)
                 {
                     Regex correctMissionFormat = new Regex(@"-\d{3}$");
@@ -58,12 +59,13 @@ namespace AC1
             }
         }
 
-        public string Scoring
+        public int Scoring
         {
             get { return _scoring; }
             set
             {
-                if (Helper.IsBetweenRange(Convert.ToInt32(value), 0, 500))
+                const int MinValue = 0, MaxValue = 500;
+                if (Helper.IsBetweenRange(value, MinValue, MaxValue))
                 {
                     _scoring = value;
                 }
@@ -72,6 +74,11 @@ namespace AC1
                     throw new ArgumentException("El scoring debe estar entre 0 y 500.");
                 }
             }
+        }
+
+        public override string ToString()
+        {
+            return $"Nombre de la persona: {Player}\nNombre de la misión: {Mission}\nCantidad de puntos: {Scoring}";
         }
     }
 }

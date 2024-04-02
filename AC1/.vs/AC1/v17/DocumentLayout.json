@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DAMv1\\AC1-Intergalactic\\AC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F211BF5-C1A9-459C-B794-EE4CD0DB162F}|AC1\\AC1.csproj|e:\\damv1\\ac1-intergalactic\\ac1\\ac1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F211BF5-C1A9-459C-B794-EE4CD0DB162F}|AC1\\AC1.csproj|solutionrelative:ac1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F211BF5-C1A9-459C-B794-EE4CD0DB162F}|AC1\\AC1.csproj|e:\\damv1\\ac1-intergalactic\\ac1\\ac1\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F211BF5-C1A9-459C-B794-EE4CD0DB162F}|AC1\\AC1.csproj|solutionrelative:ac1\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F211BF5-C1A9-459C-B794-EE4CD0DB162F}|AC1\\AC1.csproj|e:\\damv1\\ac1-intergalactic\\ac1\\ac1\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F211BF5-C1A9-459C-B794-EE4CD0DB162F}|AC1\\AC1.csproj|solutionrelative:ac1\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 344,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DAMv1\\AC1-Intergalactic\\AC1\\AC1\\Program.cs",
+              "RelativeDocumentMoniker": "AC1\\Program.cs",
+              "ToolTip": "E:\\DAMv1\\AC1-Intergalactic\\AC1\\AC1\\Program.cs",
+              "RelativeToolTip": "AC1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:58:09.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "E:\\DAMv1\\AC1-Intergalactic\\AC1\\AC1\\Helper.cs",
+              "RelativeDocumentMoniker": "AC1\\Helper.cs",
+              "ToolTip": "E:\\DAMv1\\AC1-Intergalactic\\AC1\\AC1\\Helper.cs",
+              "RelativeToolTip": "AC1\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:58:09.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Score.cs",
+              "DocumentMoniker": "E:\\DAMv1\\AC1-Intergalactic\\AC1\\AC1\\Score.cs",
+              "RelativeDocumentMoniker": "AC1\\Score.cs",
+              "ToolTip": "E:\\DAMv1\\AC1-Intergalactic\\AC1\\AC1\\Score.cs",
+              "RelativeToolTip": "AC1\\Score.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwD0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:58:09.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
