@@ -11,9 +11,8 @@
 
         public static List<Score> OrderByPlayerAndMission(List<Score> scores)
         {
-            List<Score> result = scores.OrderBy(score => score.Player)
-                                       .ThenBy(score => score.Mission)
-                                       .ThenByDescending(score => score.Scoring)
+            List<Score> result = scores.GroupBy(score => new { score.Player, score.Mission })
+                                       .Select(group => group.OrderByDescending(s => s.Scoring).First())
                                        .ToList();
 
             return result;

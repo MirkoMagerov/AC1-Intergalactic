@@ -37,8 +37,8 @@ namespace AC1
             get { return _mission; }
             set
             {
-                string[] consonantesGriegas = [ "Beta", "Gamma", "Delta", "Zeta", "Theta", "Kappa", "Lambda", "Mu", "Nu", "Xi", "Pi", "Rho", "Sigma", "Tau", "Phi", "Chi", "Psi" ];
-                bool contieneConsonanteGriega = consonantesGriegas.Any(c => value.Contains(c));
+                string[] alfabetoGriego = { "Beta", "Gamma", "Delta", "Zeta", "Theta", "Kappa", "Lambda", "Mu", "Nu", "Xi", "Pi", "Rho", "Sigma", "Tau", "Phi", "Chi", "Psi", "Alpha", "Epsilon", "Eta", "Iota", "Omicron", "Upsilon", "Omega" };
+                bool contieneConsonanteGriega = alfabetoGriego.Any(c => value.Contains(c));
 
                 if (contieneConsonanteGriega)
                 {
